@@ -32,7 +32,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 	</Item>
-	<Item Name="Get Left Distance.vi" Type="VI" URL="../Get Left Distance.vi">
+	<Item Name="Get Left Value.vi" Type="VI" URL="../Get Left Value.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#;!!!!"!!%!!!!#U!+!!6797RV:1!C1(!!(A!!$1NB=GUO&lt;(:D&lt;'&amp;T=Q!,98*N,GRW9WRB=X-!91$Q!!Q!!!!!!!%!!A!!!!!!!!!!!!!!!!!!!!)$!!"Y!!!!!!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!!Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -59,7 +59,7 @@
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">8658944</Property>
 	</Item>
-	<Item Name="Get Right Distance.vi" Type="VI" URL="../Get Right Distance.vi">
+	<Item Name="Get Right Value.vi" Type="VI" URL="../Get Right Value.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#;!!!!"!!%!!!!#U!+!!6797RV:1!C1(!!(A!!$1NB=GUO&lt;(:D&lt;'&amp;T=Q!,98*N,GRW9WRB=X-!91$Q!!Q!!!!!!!%!!A!!!!!!!!!!!!!!!!!!!!)$!!"Y!!!!!!!!!!!!!!E!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!U!!!!-!!!!!!!!!!!!!!%!!Q!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
