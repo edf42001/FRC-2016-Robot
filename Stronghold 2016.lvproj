@@ -129,9 +129,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
-			<Item Name="Forward For inch.vi" Type="VI" URL="../Forward For inch.vi"/>
-			<Item Name="Turn to degrees.vi" Type="VI" URL="../Turn to degrees.vi"/>
-			<Item Name="Drive Straight Arcade.vi" Type="VI" URL="../Drive Straight Arcade.vi"/>
 			<Item Name="Turn And Shoot.vi" Type="VI" URL="../Turn And Shoot.vi"/>
 			<Item Name="Get Distance.vi" Type="VI" URL="../Get Distance.vi"/>
 			<Item Name="Set Arm Position.vi" Type="VI" URL="../Set Arm Position.vi"/>
