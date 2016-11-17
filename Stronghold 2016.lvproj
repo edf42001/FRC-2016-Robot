@@ -132,11 +132,14 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 			<Item Name="Forward For inch.vi" Type="VI" URL="../Forward For inch.vi"/>
+			<Item Name="forwardForInchMotionControl.vi" Type="VI" URL="../forwardForInchMotionControl.vi"/>
 			<Item Name="Turn to degrees.vi" Type="VI" URL="../Turn to degrees.vi"/>
 			<Item Name="Drive Straight Arcade.vi" Type="VI" URL="../Drive Straight Arcade.vi"/>
 			<Item Name="Turn And Shoot.vi" Type="VI" URL="../Turn And Shoot.vi"/>
 			<Item Name="Get Distance.vi" Type="VI" URL="../Get Distance.vi"/>
 			<Item Name="Set Arm Position.vi" Type="VI" URL="../Set Arm Position.vi"/>
+			<Item Name="integral.vi" Type="VI" URL="../integral.vi"/>
+			<Item Name="derivative.vi" Type="VI" URL="../derivative.vi"/>
 			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
 			<Item Name="Lowbar Auto Aim.vi" Type="VI" URL="../Lowbar Auto Aim.vi"/>
 			<Item Name="Auto Aim.vi" Type="VI" URL="../Auto Aim.vi"/>
@@ -796,7 +799,6 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_ServoGetAngle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/PWM/Servo/WPI_ServoGetAngle.vi"/>
 				<Item Name="WPI_ServoRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/PWM/Servo/WPI_ServoRefNum Registry Get.vi"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
-				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
@@ -814,9 +816,6 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
-			<Item Name="derivative.vi" Type="VI" URL="../derivative.vi"/>
-			<Item Name="integral.vi" Type="VI" URL="../integral.vi"/>
-			<Item Name="forwardForInchMotionControl.vi" Type="VI" URL="../forwardForInchMotionControl.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
