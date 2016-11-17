@@ -131,7 +131,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 			<Item Name="Turn And Shoot.vi" Type="VI" URL="../Turn And Shoot.vi"/>
 			<Item Name="Get Distance.vi" Type="VI" URL="../Get Distance.vi"/>
-			<Item Name="Set Arm Position.vi" Type="VI" URL="../Set Arm Position.vi"/>
 			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
 			<Item Name="Lowbar Auto Aim.vi" Type="VI" URL="../Lowbar Auto Aim.vi"/>
 			<Item Name="Auto Aim.vi" Type="VI" URL="../Auto Aim.vi"/>
