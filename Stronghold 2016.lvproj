@@ -140,6 +140,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Set Arm Position.vi" Type="VI" URL="../Set Arm Position.vi"/>
 			<Item Name="integral.vi" Type="VI" URL="../integral.vi"/>
 			<Item Name="derivative.vi" Type="VI" URL="../derivative.vi"/>
+			<Item Name="Boxcar Filter.vi" Type="VI" URL="../Boxcar Filter.vi"/>
 			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
 			<Item Name="Lowbar Auto Aim.vi" Type="VI" URL="../Lowbar Auto Aim.vi"/>
 			<Item Name="Auto Aim.vi" Type="VI" URL="../Auto Aim.vi"/>
@@ -799,6 +800,7 @@ AddOutputFilter chunkFilter
 				<Item Name="WPI_ServoGetAngle.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/PWM/Servo/WPI_ServoGetAngle.vi"/>
 				<Item Name="WPI_ServoRefNum Registry Get.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/PWM/Servo/WPI_ServoRefNum Registry Get.vi"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 			</Item>
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
