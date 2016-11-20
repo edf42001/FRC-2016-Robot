@@ -120,6 +120,8 @@ AddOutputFilter chunkFilter
 			<Item Name="intake.lvclass" Type="LVClass" URL="../intake/intake.lvclass"/>
 			<Item Name="drive.lvclass" Type="LVClass" URL="../drive/drive.lvclass"/>
 			<Item Name="arm.lvclass" Type="LVClass" URL="../arm/arm.lvclass"/>
+			<Item Name="Drive States.ctl" Type="VI" URL="../Drive States.ctl"/>
+			<Item Name="Arm States.ctl" Type="VI" URL="../Arm States.ctl"/>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
