@@ -122,6 +122,7 @@ AddOutputFilter chunkFilter
 			<Item Name="arm.lvclass" Type="LVClass" URL="../arm/arm.lvclass"/>
 			<Item Name="Drive States.ctl" Type="VI" URL="../Drive States.ctl"/>
 			<Item Name="Arm States.ctl" Type="VI" URL="../Arm States.ctl"/>
+			<Item Name="Intake States.ctl" Type="VI" URL="../Intake States.ctl"/>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
@@ -136,6 +137,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
 			<Item Name="Lowbar Auto Aim.vi" Type="VI" URL="../Lowbar Auto Aim.vi"/>
 			<Item Name="Auto Aim.vi" Type="VI" URL="../Auto Aim.vi"/>
+			<Item Name="Auto Cross.vi" Type="VI" URL="../Auto Cross.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
