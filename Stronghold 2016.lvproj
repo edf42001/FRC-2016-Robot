@@ -140,6 +140,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Set Arm Position.vi" Type="VI" URL="../Set Arm Position.vi"/>
 			<Item Name="integral.vi" Type="VI" URL="../integral.vi"/>
 			<Item Name="derivative.vi" Type="VI" URL="../derivative.vi"/>
+			<Item Name="Pos Vel Accel.vi" Type="VI" URL="../Pos Vel Accel.vi"/>
+			<Item Name="Rate Limiter.vi" Type="VI" URL="../Rate Limiter.vi"/>
 			<Item Name="Boxcar Filter.vi" Type="VI" URL="../Boxcar Filter.vi"/>
 			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
 			<Item Name="Lowbar Auto Aim.vi" Type="VI" URL="../Lowbar Auto Aim.vi"/>
