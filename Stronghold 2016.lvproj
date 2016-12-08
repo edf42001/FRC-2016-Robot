@@ -134,6 +134,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Set Arm Position.vi" Type="VI" URL="../Set Arm Position.vi"/>
 			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
 			<Item Name="Lowbar Auto Aim.vi" Type="VI" URL="../Lowbar Auto Aim.vi"/>
+			<Item Name="Set Constants.vi" Type="VI" URL="../Set Constants.vi"/>
+			<Item Name="Constants.vi" Type="VI" URL="../Constants.vi"/>
 			<Item Name="Auto Aim.vi" Type="VI" URL="../Auto Aim.vi"/>
 		</Item>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
