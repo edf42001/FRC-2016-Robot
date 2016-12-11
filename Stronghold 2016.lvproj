@@ -27,7 +27,12 @@
 			<Item Name="FRC Simulated.xml" Type="Document" URL="../FRC Simulated.xml"/>
 		</Item>
 		<Item Name="Robot Simulation Readme.html" Type="Document" URL="../Robot Simulation Readme.html"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Arm State Machine Test.vi" Type="VI" URL="../Arm State Machine Test.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="Intake States.ctl" Type="VI" URL="../Intake States.ctl"/>
+			<Item Name="Timeout.vi" Type="VI" URL="../Timeout.vi"/>
+			<Item Name="Arm States.ctl" Type="VI" URL="../Arm States.ctl"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 	<Item Name="Target" Type="RT myRIO">
@@ -811,6 +816,7 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Get Right Position.vi" Type="VI" URL="../drive/Get Right Position.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
